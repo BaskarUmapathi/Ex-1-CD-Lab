@@ -1,8 +1,9 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 ```
+Name : Baskar U
 Register Number : 212223220013
-Date : 24/04/2025
 ```
+Date : 24/04/2025
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
